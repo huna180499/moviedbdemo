@@ -1,0 +1,59 @@
+                _________________________________________________                               
+                |               FRONTEND DEVELOPMENT            |                               
+                +-----------------------------------------------+                               
+                |                                               |                               
+                |                                               |                               
+        [HTML/CSS Basics]                               [Responsive Web Design]                 
+                |                                               |                               
+                |                                               |                               
+        +-------+-------+                       +---------------+---------------+               
+        |               |                       |                               |               
+        |               |                       |                               |               
+[CSS Frameworks] [CSS Animation]       [CSS Preprocessors]             [CSS Methodologies]      
+        |                                                                       |               
+        |                                                                       |               
+  [Tailwind CSS]                                                        [SASS and LESS]         
+
+
+
+                _________________________________________________
+                |           JAVASCRIPT AND LIBRARIES            |                               
+                +-----------------------------------------------+                               
+                |                                               |                               
+                |                                               |                               
+        [JavaScript Basics]                             [ReactJS Fundamentals]                  
+                |                                               |                               
+                |                                               |                               
+        +-------+-------+                       +---------------+---------------+               
+        |               |                       |                               |               
+        |               |                       |                               |               
+ [DOM Manipulation]    [ES6]            [React Router]          [State Management in React]     
+        |                                                                       |               
+        |                                                                       |               
+  [Asynchronous JS]                                                     +-------+-------+       
+        |                                                               |               |       
+[Promises & Async/Await]                                        [API Integration]    [Redux] 
+
+
+
+                _________________________________________________
+                |               WEB DEVELOPMENT TOOLS           |                               
+                +-----------------------------------------------+                               
+                |                                               |                               
+                |                                               |                               
+        [Version Control (Git)]                         [Command Line Basics]                   
+                |                                               |                               
+                |                                               |                               
+        +-------+-------+                       +---------------+---------------+               
+        |               |                       |                               |               
+        |               |                       |                               |               
+    [GitHub]        [Node.js]             [HTTP/HTTPS]                    [Web Browsers]        
+        |                                       |                                               
+        |                                       |                                               
+ [Hosting Basics]                       +-------+-------+                                      
+        |                               |               |                                       
+        |                               |               |                                       
+[APIs and RESTful]                  [SSL/TLS]   [Domain Names]                                  
+        |                               |                                                       
+        |                               |                                                       
+[Basic Networking]              [DNS Lookup Process]                                            
