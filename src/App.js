@@ -13,7 +13,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<Header/>}>
+        <Route path='/moviedbdemo' element={<Header/>}>
           
           <Route index element={<Home />}/>
           <Route path="login" element={<DangNhap/>}/>
