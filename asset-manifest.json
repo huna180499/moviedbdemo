@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/moviedbdemo/static/css/main.39acb9ca.css",
+    "main.js": "/moviedbdemo/static/js/main.36e74209.js",
+    "static/media/home-3rd.jpg": "/moviedbdemo/static/media/home-3rd.075b5670ff787365e271.jpg",
+    "static/media/home.jpg": "/moviedbdemo/static/media/home.6702c3a427bd487c308f.jpg",
+    "static/media/home-2nd.jpg": "/moviedbdemo/static/media/home-2nd.75da97ef076c4626541c.jpg",
+    "static/media/plus.jpg": "/moviedbdemo/static/media/plus.68f7a724bd1c5644ae59.jpg",
+    "static/media/aquaman.jpg": "/moviedbdemo/static/media/aquaman.681c2152358d08ba2a83.jpg",
+    "static/media/nhavitdicu.jpg": "/moviedbdemo/static/media/nhavitdicu.a697aff184b1423d9cf8.jpg",
+    "static/media/thevillage.jpg": "/moviedbdemo/static/media/thevillage.56dad16a3272e538d518.jpg",
+    "static/media/bietdoimarvel.jpg": "/moviedbdemo/static/media/bietdoimarvel.bc39efe5c59ab697f672.jpg",
+    "static/media/911.jpg": "/moviedbdemo/static/media/911.f2817eb449e00b1fe03d.jpg",
+    "static/media/congdongtrongtuyet.jpg": "/moviedbdemo/static/media/congdongtrongtuyet.f812a0849df69006702b.jpg",
+    "static/media/dechenapoleon.jpg": "/moviedbdemo/static/media/dechenapoleon.b62dcef792cb0f27132c.jpg",
+    "static/media/dieuuoc.jpg": "/moviedbdemo/static/media/dieuuoc.b6d8dfa62b0536a679e8.jpg",
+    "static/media/raginggrace.jpg": "/moviedbdemo/static/media/raginggrace.e07e32686ea546452365.jpg",
+    "static/media/biglogo.svg": "/moviedbdemo/static/media/biglogo.de1a664e8d0777ca4ddb2a5a298bcfb6.svg",
+    "static/media/logo.svg": "/moviedbdemo/static/media/logo.bf7f470b3821af1da7fa249c87dadea3.svg",
+    "index.html": "/moviedbdemo/index.html",
+    "static/media/search.svg": "/moviedbdemo/static/media/search.813519dbe3ea591a37473220c8de0f6a.svg",
+    "main.39acb9ca.css.map": "/moviedbdemo/static/css/main.39acb9ca.css.map",
+    "main.36e74209.js.map": "/moviedbdemo/static/js/main.36e74209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39acb9ca.css",
+    "static/js/main.36e74209.js"
+  ]
+}
