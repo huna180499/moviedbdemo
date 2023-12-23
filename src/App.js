@@ -8,6 +8,7 @@ import Bottom from './components/Bottom';
 import Home     from './pages/Home';
 import More     from './pages/More';
 import DangNhap from './pages/DangNhap';
+import DangKy from './pages/DangKy';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           
           <Route index element={<Home />}/>
           <Route path="login" element={<DangNhap/>}/>
+          <Route path="signup" element={<DangKy/>}/>
           <Route path="more" element={<More />}/>
 
         </Route>

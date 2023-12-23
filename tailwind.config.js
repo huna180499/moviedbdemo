@@ -17,6 +17,7 @@ module.exports = {
       colors: {
         'lgreen':"rgba(30,213,169,1)",
         'primary':'rgba(3,37,65,1)',
+        'lightBlue': 'rgba(1,180,228,1)'
       },
       backgroundColor: {
         'primary':'rgba(3,37,65,1)',
@@ -30,6 +31,9 @@ module.exports = {
       
       fontFamily: {
         'sans': ['"Source Sans Pro",Arial, sans-serif'],
+      },
+      boxShadow: {
+        'option': '0 2px 8px rgba(0,0,0,0.1)'
       }
       
     },

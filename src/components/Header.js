@@ -9,7 +9,7 @@ export default function Header() {
       <div className='h-64px bg-primary text-white font-sans font-semibold text-[14px] flex items-center text-center' >
         <div className='mx-auto h-10 w-full max-w-1300 flex justify-between items-center px-10'>
           <div className='flex w-485px '>
-            <Link to='/' className='w-2/6 mr-4'><img src={logo}/></Link>
+            <Link to='/moviedbdemo' className='w-2/6 mr-4'><img src={logo}/></Link>
             <div className='w-1/6'>Movies</div>
             <div className='w-1/6'>TV Shows</div>
             <div className='w-1/6'>People</div>
